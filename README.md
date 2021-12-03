@@ -148,4 +148,5 @@ Usage: wpscan [options]
                                                   Available choices: wp-login, xmlrpc, xmlrpc-multicall
         --login-uri URI                           The URI of the login page if different from /wp-login.php
         --stealthy
-        ```
+
+```
