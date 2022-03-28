@@ -147,6 +147,5 @@ Usage: wpscan [options]
         --password-attack ATTACK                  Force the supplied attack to be used rather than automatically determining one.
                                                   Available choices: wp-login, xmlrpc, xmlrpc-multicall
         --login-uri URI                           The URI of the login page if different from /wp-login.php
-        --stealthy
-
-```
+        --stealthy                                Alias for --random-user-agent --detection-mode passive --plugins-version-detection passive
+        ```
